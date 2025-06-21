@@ -31,10 +31,8 @@ This project is a machine learning-based system to detect fake news using Natura
 ---
 
 | File                 | Description                           |
-| -------------------- | ------------------------------------- |
-| `Fake.csv`           | Fake news data                        |
+| -------------------- | ------------------------------------- |                |
 | `fake_news_train.py` | Python script to train and save model |
-| `fake_news_app.py`   | Streamlit app for prediction          |
 | `requirements.txt`   | Python dependencies                   |
 | `pac_model.pkl`      | Trained model file                    |
 | `tfidf.pkl`          | TF-IDF vectorizer                     |
